@@ -51,9 +51,9 @@
   <a href="https://yoon-arc.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="cindychoiisthebest@gmail.com">
+  <a href="yoooon0718@naver.com">
     <img
-      src="https://img.shields.io/badge/cindychoiisthebest@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/yoooon0718@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
