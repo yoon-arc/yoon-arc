@@ -44,6 +44,10 @@
 </div>
 
 <br>
+<
+![Yoonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-arcs&layout=compact&theme=vue)
+
 
 <h3 align="center">Contact</h3>
 <div align="center">
