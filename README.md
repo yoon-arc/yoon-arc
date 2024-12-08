@@ -45,8 +45,8 @@
 
 <br>
 <div align="center">
-![Yoonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-arc&layout=compact&theme=vue)
+  <img src="https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true&theme=vue" alt="Yoonlix's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-arc&layout=compact&theme=vue" alt="Top Langs" />
 </div>
 
 
