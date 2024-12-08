@@ -44,9 +44,9 @@
 </div>
 
 <br>
-<div>
-![Yoonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-arcs&layout=compact&theme=vue)
+<div align="center">
+![Yoonlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonlix&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonlix&layout=compact&theme=vue)
 </div>
 
 
