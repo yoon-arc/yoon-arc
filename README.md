@@ -44,11 +44,6 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true&theme=vue" alt="Yoonlix's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-arc&layout=compact&theme=vue" alt="Top Langs" />
-</div>
-
 
 <h3 align="center">Contact</h3>
 <div align="center">
