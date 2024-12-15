@@ -1,6 +1,6 @@
 <!--내용 부분-->
 
-Hi, I specialise in creating intuitive UX designs and transforming them into clean, efficient front-end code :)
+<h3 align="center">Hi, I specialise in creating intuitive UX designs and transforming them into clean, efficient front-end code :)</h3>
 
 <h3 align="center">Tech Stack</h3>
 <div align="center">
