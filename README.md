@@ -1,11 +1,12 @@
 <!--내용 부분-->
 <br/>
-<h4 align="center">Hi, I specialise in creating intuitive UX designs and transforming them into clean, efficient code :)</h4>
+<h1 align="center">Hi there 🌷, I'm Yoon👋</h1>
+<h3 align="center">A passionate Frontend Developer from Seoul, also specialized in creating intuitive UX designs</h3>
 <br/>
 <br/>
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonlix)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true" alt="Yoon's GitHub stats" />
+</p>
 <h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
