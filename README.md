@@ -1,13 +1,17 @@
 <!--내용 부분-->
 <br/>
 <h1 align="center">Hi there 🌷, I'm Yoon👋</h1>
-<h3 align="center">A passionate Frontend Developer from Seoul, also specialized in creating intuitive UX designs</h3>
+<p align="center">A passionate Frontend Developer from Seoul, also specialized in creating intuitive UX designs</p>
+<p align="center">
+  디자인 전공을 바탕으로 소통과 협업에 강한, 도전하는 프론트엔드 개발자 윤입니다 🙌<br/>
+  다양한 기술 스택을 깊이 있게 다루며, 항상 더 나은 사용자 경험을 위해 끊임없이 성장하고 있습니다
+</p>
 <br/>
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoon-arc&show_icons=true" alt="Yoon's GitHub stats" />
 </p>
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack | 사용하는 기술 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
@@ -24,7 +28,7 @@
 <br>
 
 
-<h3 align="center">Studying</h3>
+<h3 align="center">📚 Studying | 공부 중인 기술 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
@@ -33,7 +37,7 @@
 
 <br>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">🧰 Tools | 협업 & 디자인 도구 🧰</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -56,7 +60,7 @@
 
 <br>
 
-<h3 align="center">Contact</h3>
+<h3 align="center">📬 Contact | 연락처 📬</h3>
 <div align="center">
   <a href="https://yoon-arc.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
