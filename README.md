@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-arc)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonlix)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <h3 align="center">Tech Stack</h3>
 <div align="center">
