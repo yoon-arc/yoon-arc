@@ -4,7 +4,7 @@
 <p align="center">A passionate Frontend Developer from Seoul, also specialized in creating intuitive UX designs</p>
 <p align="center">
   디자인 전공을 바탕으로 소통과 협업에 강한, 도전하는 프론트엔드 개발자 윤입니다 🙌<br/>
-  다양한 기술 스택을 깊이 있게 다루며, 항상 더 나은 사용자 경험을 위해 끊임없이 성장하고 있습니다
+  다양한 기술 스택을 깊이 있게 다루며, 항상 더 나은 사용자 경험을 위해 끊임없이 성장하고 있습니다<br/>
   Portfolio Website : https://yoon-arc.work/
 </p>
 <br/>
